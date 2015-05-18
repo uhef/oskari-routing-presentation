@@ -424,8 +424,16 @@ a:focus {
   color: #000;
   font-size: 32px;
   position: relative;
+}
+
+#routing-bundle .code {
   left: -138px;
   top: -126px;
+}
+
+#control-routing .code {
+  left: 423px;
+  top: 35px;
 }
 
 #source q {
