@@ -446,6 +446,26 @@ a:focus {
   top: 102px;
 }
 
+#pg-routing .logo {
+  height: 126px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  position: relative;
+  left: 103px;
+  top: 360px;
+  background-image: url("../pgrouting.png");
+}
+
+#pg-routing .code {
+  left: 433px;
+  top: 334px;
+}
+
+#geojson-plugin .code {
+  left: -138px;
+  top: -86px;
+}
+
 #source q {
     font-size: 60px;
 }
