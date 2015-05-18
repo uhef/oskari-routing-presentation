@@ -466,6 +466,19 @@ a:focus {
   top: -86px;
 }
 
+#future-work h1 {
+  font-weight: bold;
+  font-size: 48px;
+}
+
+#future-work ul {
+  margin-top: 37px;
+}
+
+#future-work li {
+  margin-bottom: 20px;
+}
+
 #source q {
     font-size: 60px;
 }
