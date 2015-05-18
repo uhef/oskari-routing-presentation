@@ -436,6 +436,16 @@ a:focus {
   top: 35px;
 }
 
+#service-routing .code {
+  left: 423px;
+  top: 70px;
+}
+
+#service-routing #astar {
+  left: 116px;
+  top: 102px;
+}
+
 #source q {
     font-size: 60px;
 }
